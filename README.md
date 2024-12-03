@@ -25,7 +25,8 @@ After about 5 minutes you should see some PRs open. Merge them and the Securty A
 
 ### Enabling Version Updates
 
-This demo includes a `dependabot.yml` which configures [Version Updates](https://docs.github.com/github/administering-a-repository/keeping-your-dependencies-updated-automatically), but forks don't automatically start with Dependabot enabled.
+This demo includes a `dependabot.yml` which configures [Version Updates](https://docs.github.com/github/administering-![repository-open-graph-template](https://github.com/user-attachments/assets/6c48b990-e7aa-44f2-8f82-6a35f7571b57)
+a-repository/keeping-your-dependencies-updated-automatically), but forks don't automatically start with Dependabot enabled.
 
 The enable Dependabot on your fork:
 - Click the **Insights** tab
